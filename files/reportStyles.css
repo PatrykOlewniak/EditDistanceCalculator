@@ -1,0 +1,32 @@
+body {
+    font-size: small;
+    font-family: 'Courier New';
+    white-space:nowrap;
+}
+
+br {
+    line-height: 120%;
+}
+
+span.ins {
+    color: blue;
+    font-weight: bold;
+}
+
+span.binfo
+ {
+    display: block;
+    padding :5px;
+}
+
+span.ctx {
+    color: grey;
+    font-weight: normal;
+    padding: 10px;
+
+}
+
+span.sbst {
+    color: black;
+    font-weight: bold;
+}
